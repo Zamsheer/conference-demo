@@ -10,4 +10,4 @@ import javax.sql.DataSource;
 public class PersistenceConfiguration {
     
     }
-}
+
