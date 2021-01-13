@@ -58,8 +58,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<!--making it a standalone executable running without java -jar command-->
 				<configuration>
-					<executable>true</executable>
-					 <release>15</release> 
+					<executable>true</executable>					
 				</configuration>
 			</plugin>
 		</plugins>
