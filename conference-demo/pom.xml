@@ -59,6 +59,7 @@
 				<!--making it a standalone executable running without java -jar command-->
 				<configuration>
 					<executable>true</executable>
+					 <release>15</release> 
 				</configuration>
 			</plugin>
 		</plugins>
